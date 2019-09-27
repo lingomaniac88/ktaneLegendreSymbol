@@ -1,0 +1,13 @@
+The Legendre Symbol v1.0
+For those of you who were afraid of fractions in grade school, be thankful you didn't have to deal with these.
+
+Module ID: legendreSymbol
+
+Created by: lingomaniac88
+
+Manual available here: https://ktane.timwi.de/HTML/The%20Legendre%20Symbol.html
+
+---
+
+v1.0:
+- Initial release
