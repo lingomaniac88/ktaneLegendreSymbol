@@ -1,4 +1,4 @@
-The Legendre Symbol v1.0
+The Legendre Symbol v1.0.1
 For those of you who were afraid of fractions in grade school, be thankful you didn't have to deal with these.
 
 Module ID: legendreSymbol
@@ -11,3 +11,6 @@ Manual available here: https://ktane.timwi.de/HTML/The%20Legendre%20Symbol.html
 
 v1.0:
 - Initial release
+
+v1.0.1:
+- Expanded on some parts of the manual (especially the law of quadratic reciprocity), and added a few examples of quadratic residues modulo small odd primes.

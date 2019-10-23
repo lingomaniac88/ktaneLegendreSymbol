@@ -14,7 +14,7 @@ MonoBehaviour:
   id: legendreSymbol
   title: The Legendre Symbol
   author: lingomaniac88
-  description: 'The Legendre Symbol v1.0
+  description: 'The Legendre Symbol v1.0.1
 
     For those of you who were afraid of fractions in grade school, be thankful you
     didn''t have to deal with these.
@@ -27,6 +27,6 @@ MonoBehaviour:
 
 
     Manual available here: https://ktane.timwi.de/HTML/The%20Legendre%20Symbol.html'
-  version: 1.0
+  version: 1.0.1
   outputFolder: build
   previewImage: {fileID: 2800000, guid: d481637ee2fe4d0479fbb674b917fa9e, type: 3}
